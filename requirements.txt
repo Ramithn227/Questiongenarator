@@ -1,0 +1,8 @@
+pandas==1.5.3
+python-dotenv==1.0.0
+google-generativeai==0.1.0
+PyPDF2==3.0.1
+pymongo==4.3.3
+gTTS==2.3.2
+playsound==1.2.2
+SpeechRecognition==3.8.1
